@@ -1,0 +1,12 @@
+{
+  "name": "streetops-ai",
+  "version": "1.0.0",
+  "description": "Agentic street-maintenance assistant for the Meta Global AI Developer Hackathon 2026",
+  "private": true,
+  "scripts": {
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm run dev --prefix server"
+  },
+  "author": "kevalhirani2003",
+  "license": "MIT"
+}
